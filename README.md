@@ -1,5 +1,4 @@
-# DarshankumarV
-Self balancing Robot
+# Self balancing Robot
 #include <Wire.h>
 #include <Kalman.h>
 #include <Adafruit_Sensor.h>
